@@ -62,6 +62,7 @@ class Main {
     Main m = new Main();
     m.CreateList();
     m.DeleteElement();
+    System.out.println("Updated list: ");
     m.DisplayList();
   }
 }
